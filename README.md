@@ -47,7 +47,7 @@
 
 ### Featured Projects 🚀
 
-- 📱 **UQ Co-Founder Matching** - Flutter/React Native cross-platform app
+- 📱 **UQ Co-Founder Matching** - React Native cross-platform app
 - 🤖 **LangChain & AGNO Exploration** - NLP Pipeline Development
 - 📊 **FinAdvisor** - AI-powered Financial Dashboard
 - 🧠 **AD/NC Classifier** - Alzheimer's Detection using Siamese CNN
