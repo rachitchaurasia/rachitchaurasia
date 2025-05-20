@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250"/>
+  <img src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" width="400" height="250"/>
 </div>
 
 ###
@@ -15,7 +15,9 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"  />
+<div align="right">
+  <img src="https://media.giphy.com/media/oFYKw5OTZBZzVONpUh/giphy.gif" width="400" height="250"/>
+</div>
 
 ### About Me 🎯
 
