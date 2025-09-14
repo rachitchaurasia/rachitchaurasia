@@ -1,76 +1,86 @@
-<h2 align="left">Hi 👋! I'm Rachit Chaurasia, a Software Engineering Student at UQ!</h2>
-
-###
+<h2 align="center">Hi 👋, I'm Rachit Chaurasia</h2>
+<h4 align="center">Full Stack AI Engineer @ Heuris Labs | UQ'25 Graduate | AI Researcher</h4>
 
 <div align="center">
   <img src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" width="400" height="250"/>
 </div>
 
-###
+---
 
+### 🔥 Stats & Activity
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rachitchaurasia&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitchaurasia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=rachitchaurasia&theme=radical&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachitchaurasia&layout=compact&theme=radical&langs_count=6&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-###
+---
+
+### 🎯 About Me
+- 🎓 **B.E. (Hons.) Software Engineering Graduate** with Data Science Minor @ UQ (2025)  
+- 🚀 **Full Stack AI Engineer** @ Heuris Labs - Building AI Agent Automation Systems  
+- 🔬 **Research Focus**: Cross-Language Code Translation using Large Language Models  
+- ☁️ **Ex-AWS Solutions Architect Intern** @ Agaile Inc.  
+- 🏆 **Dean's Commendation** for Academic Excellence (GPA > 6.6/7.0)  
+- 💡 Developing **Multi-Agent Orchestration Systems** & **MCP Servers**  
 
 <div align="right">
-  <img src="https://media.giphy.com/media/oFYKw5OTZBZzVONpUh/giphy.gif" width="400" height="250"/>
+  <img src="https://media.giphy.com/media/oFYKw5OTZBZzVONpUh/giphy.gif" width="380" height="220"/>
 </div>
 
-### About Me 🎯
+---
 
-- 🎓 **B.E. (Hons.) Software Engineering** with Data Science Minor
-- 🔬 Researching Cross-Language Code Translation Using LLMs
-- 💼 Ex-AWS Solutions Architect Intern @ Agaile Inc.
-
-### Tech Stack 🛠️
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo"  />
+### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
 </div>
 
-### Featured Projects 🚀
+---
 
-- 📱 **UQ Co-Founder Matching** - React Native cross-platform app
-- 🤖 **LangChain & AGNO Exploration** - NLP Pipeline Development
-- 📊 **FinAdvisor** - AI-powered Financial Dashboard
-- 🧠 **AD/NC Classifier** - Alzheimer's Detection using Siamese CNN
+### 🚀 Featured Projects & Research
+- 🤖 **E2B MCP Server** – Secure sandbox environments for AI agent workflows  
+- 🔄 **Multi-Agent Orchestration Systems** – Using Agno Framework & LangGraph  
+- 📱 **UQ Co-Founder Matching App** – Cross-platform React Native application  
+- 📊 **FinAdvisor** – AI-powered Financial Dashboard with ML insights  
+- 🧠 **AD/NC Classifier** – Alzheimer's Detection using Siamese CNN architecture  
+- 🔬 **Cross-Language Code Translation** – LLM-based research project (Thesis)  
 
-### Let's Connect 🤝
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/rachitchaurasia">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+### 🏆 Recent Achievements
+- 🎓 **UQ Graduate** (July 2025) - Software Engineering Honours with Data Science Minor  
+- 🌟 **Dean's Commendation** for Academic Excellence  
+- 📜 **Leaders at EAIT Pathway Program** Graduate (Rio Tinto Partnership)  
+- 🤝 **Full Stack AI Engineer** at Heuris Labs (Current)  
+
+---
+
+### 🤝 Let's Connect
+<div align="center">
+  <a href="https://www.linkedin.com/in/rachitchaurasia" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   <a href="mailto:rachitchaurasia2701@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rachitchaurasia/rachitchaurasia/output/snake.svg" alt="Snake animation" />
-
-###
-
+### 🐍 Fun Animation
 <div align="center">
-  <img src="https://profile-counter.glitch.me/rachitchaurasia/count.svg?"  />
+  <img src="https://raw.githubusercontent.com/rachitchaurasia/rachitchaurasia/output/snake.svg" alt="Snake animation"/>
+</div>
+
+---
+
+### 👀 Profile Views
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rachitchaurasia&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
