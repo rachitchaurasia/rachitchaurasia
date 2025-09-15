@@ -1,6 +1,5 @@
 <h2 align="center">Hi 👋, I'm Rachit Chaurasia</h2>
 <h4 align="center">Full Stack AI Engineer @ Heuris Labs | UQ'25 Graduate | AI Researcher</h4>
-
 <div align="center">
   <img src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" width="400" height="250"/>
 </div>
@@ -22,7 +21,6 @@
 - ☁️ **Ex-AWS Solutions Architect Intern** @ Agaile Inc.  
 - 🏆 **Dean's Commendation** for Academic Excellence (GPA > 6.6/7.0)  
 - 💡 Developing **Multi-Agent Orchestration Systems** & **MCP Servers**  
-
 <div align="right">
   <img src="https://media.giphy.com/media/oFYKw5OTZBZzVONpUh/giphy.gif" width="380" height="220"/>
 </div>
@@ -39,6 +37,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
+  <a href="https://github.com/agno-agi/agno" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/104874993?s=200&v=4" height="40" alt="Agno" />
+  </a>
+  <a href="https://www.langchain.com" target="_blank">
+    <img src="https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/6808f9ca7883e7d17a64a7b8_Group%2049.svg" height="40" alt="LangChain" />
+  </a>
 </div>
 
 ---
