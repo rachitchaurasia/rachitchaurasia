@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Rachit Chaurasia</h2>
-<h4 align="center">Full Stack AI Engineer @ Heuris Labs | Research Assistant @QBI UQ | UQ'25 Graduate</h4>
+<h4 align="center">Founding Engineer @ Godel | Research Assistant @QBI UQ | UQ'25 Graduate</h4>
 <div align="center">
   <img src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" width="400" height="250"/>
 </div>
